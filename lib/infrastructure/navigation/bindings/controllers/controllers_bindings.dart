@@ -1,0 +1,1 @@
+export 'package:movie_simple_getx/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
